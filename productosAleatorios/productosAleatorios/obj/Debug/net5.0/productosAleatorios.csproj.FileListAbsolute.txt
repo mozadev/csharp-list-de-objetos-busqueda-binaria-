@@ -1,0 +1,16 @@
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\bin\Debug\net5.0\productosAleatorios.exe
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\bin\Debug\net5.0\productosAleatorios.deps.json
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\bin\Debug\net5.0\productosAleatorios.runtimeconfig.json
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\bin\Debug\net5.0\productosAleatorios.runtimeconfig.dev.json
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\bin\Debug\net5.0\productosAleatorios.dll
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\bin\Debug\net5.0\ref\productosAleatorios.dll
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\bin\Debug\net5.0\productosAleatorios.pdb
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\obj\Debug\net5.0\productosAleatorios.csproj.AssemblyReference.cache
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\obj\Debug\net5.0\productosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\obj\Debug\net5.0\productosAleatorios.AssemblyInfoInputs.cache
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\obj\Debug\net5.0\productosAleatorios.AssemblyInfo.cs
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\obj\Debug\net5.0\productosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\obj\Debug\net5.0\productosAleatorios.dll
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\obj\Debug\net5.0\ref\productosAleatorios.dll
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\obj\Debug\net5.0\productosAleatorios.pdb
+C:\Users\cesss\source\repos\productosAleatorios\productosAleatorios\obj\Debug\net5.0\productosAleatorios.genruntimeconfig.cache
